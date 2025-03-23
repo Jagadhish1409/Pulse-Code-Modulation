@@ -3,11 +3,9 @@
 # Regno:212223060094
 
 ### AIM:
-
 The aim of Pulse Code Modulation (PCM) is to convert an analog signal into a digital form by sampling, quantizing, and encoding it into binary format. This process ensures accurate transmission and storage of signals in digital systems. PCM enhances signal quality and error detection, making it crucial in audio, telecommunications, and multimedia applications.
 
 ### Components Required:
-
 python IDE with Numpy and Scipy
 
 ### Program:
@@ -71,6 +69,5 @@ plt.show()
 
 
 ### Result:
-
 Pulse Code Modulation (PCM) converts analog signals into digital form by sampling and quantizing the signal. The result is a series of pulses that represent the digitized version of the original signal, widely used in audio and telecommunications.
 
